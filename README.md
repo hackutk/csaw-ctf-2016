@@ -1,17 +1,17 @@
 # Get Up and Running with CSAW CTF 2016
 
 
-## 1. Form a team
+## 1. Form a Team
 
 - If you don't already have a team, then form one! Talk to your peers around you and get teams of size 4-8, though less than 4 is fine. But you probably want more than just you!
 
-## 2. Register your team
+## 2. Register Your Team
 
 - Register your team at [https://ctf.csaw.io/register](https://ctf.csaw.io/register).
     - Choose a password that you are willing to share with all of your teammates.
 - Share the password with your team!
 
-## 3. Log into the main challenge board
+## 3. Log into the Main Challenge Board
 
 - Go to [https://ctf.csaw.io/](https://ctf.csaw.io/) and click on the 'Chals' link to get to the challenges.
 
